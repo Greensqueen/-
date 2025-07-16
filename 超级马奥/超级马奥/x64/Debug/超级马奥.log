@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Bella\Desktop\超级马奥\超级马奥\main.cpp(94,56): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Bella\Desktop\超级马奥\超级马奥\main.cpp(272,17): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\Bella\Desktop\超级马奥\超级马奥\main.cpp(285,25): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+  超级马奥.vcxproj -> C:\Users\Bella\Desktop\超级马奥\x64\Debug\超级马奥.exe
